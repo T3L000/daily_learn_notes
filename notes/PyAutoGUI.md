@@ -138,5 +138,3 @@
     if center:
         x, y = center
         pyautogui.click(x, y)  # 点击找到的图像中心
-
-
